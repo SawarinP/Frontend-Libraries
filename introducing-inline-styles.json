@@ -1,0 +1,1 @@
+{"index.jsx":"class Colorful extends React.Component {\n  render() {\n    return (\n      <div style={{ color: 'red', fontSize: '72'}}>\n        Big Red\n      </div>\n    );\n  }\n};"}
